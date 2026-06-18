@@ -1,6 +1,6 @@
 import './styles.css';
 
-const A = `${import.meta.env.BASE_URL}assets/`;
+const A = '/assets/';
 
 const projects = [
   {
